@@ -4,7 +4,7 @@ print()函数.比如加法，输print（100+2000），这样文件在python交�
 想看相关文件，输more
 输win+r，cmd进入命令提示符
 输dir，看文件夹内容
-文件保存，要以py.结尾
+文件保存，要以.py结尾
 Python交互模式，输exit()退出
 python代码运行助手，是在相关文件夹下，输入python learning.py运行。使其后台运行即可（我也不造为什么我run不了qaq）
 
